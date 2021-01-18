@@ -18,6 +18,8 @@ Sample Text Input:
 
 12/6
 
+I have also posted a sample text file with sample text input.
+
 Sample Console Output:
 
 6/3 has a count of 3
