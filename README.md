@@ -2,7 +2,7 @@
 
 In this assignment I did for the CSS 143 course, I built a program using techniques from previous CSS courses that countsunique fractions. I needed to use loops, ifs, comments, etc., (in other words, structured programming) to complete this assignment and achieve the outcomes listed below. Included below is a sample execution of my program as well as a list of outcomes my program is to implement; notice reduction of fractions is optional in this version of the assignment.
 
-<u>My</u>
+My<hr/>
 project was to read in a series of fractions from a text file, which will have each line formatted as follows: “A/B”. The purpose of my program was to read in each fraction and count the number of occurrences for the current fraction. When all the input is consumed (or as the input is consumed), my program would print out its list of unique fraction and their corresponding count — see the output below (and you may assume no blank lines or misleading characters).
 
 The fractions should always be represented as two integers - NO DECIMALS.
